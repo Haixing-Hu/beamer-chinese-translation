@@ -1,0 +1,87 @@
+\ProvidesDictionary{translator-basic-dictionary}{SimplifiedChinese}
+
+\providetranslation{Abstract}{摘要}
+\providetranslation{Addresses}{地址}
+\providetranslation{addresses}{地址}
+\providetranslation{Address}{地址}
+\providetranslation{address}{地址}
+\providetranslation{and}{和}
+\providetranslation{Appendix}{附录}
+\providetranslation{Authors}{作者}
+\providetranslation{authors}{作者}
+\providetranslation{Author}{作者}
+\providetranslation{author}{作者}
+\providetranslation{Bibliography}{参考文献}
+\providetranslation{cc}{抄送}
+\providetranslation{Chapters}{章}
+\providetranslation{chapters}{章}
+\providetranslation{Chapter}{章}
+\providetranslation{chapter}{章}
+\providetranslation{Conclusion}{结论}
+\providetranslation{conclusion}{结论}
+\providetranslation{Contents}{目录}
+\providetranslation{Continuation}{继续}
+\providetranslation{continuation}{继续}
+\providetranslation{cont}{继续}
+\providetranslation{encl (plural)}{encl}
+\providetranslation{encl (singular)}{encl}
+\providetranslation{encl}{encl}
+\providetranslation{Figures}{图}
+\providetranslation{figures}{图}
+\providetranslation{Figure}{图}
+\providetranslation{figure}{图}
+\providetranslation{From}{从}
+\providetranslation{from}{从}
+\providetranslation{Glossary}{术语表}
+\providetranslation{Index}{索引}
+\providetranslation{Introduction}{简介}
+\providetranslation{introduction}{简介}
+\providetranslation{List of Figures and Tables}{图表列表}
+\providetranslation{List of Figures}{插图列表}
+\providetranslation{List of Tables}{表格列表}
+\providetranslation{or}{或}
+\providetranslation{Outline}{提纲}
+\providetranslation{Overview}{概要}
+\providetranslation{Pages}{页}
+\providetranslation{pages}{页}
+\providetranslation{Page}{页}
+\providetranslation{page}{页}
+\providetranslation{Paragraphs}{段}
+\providetranslation{paragraphs}{段}
+\providetranslation{Paragraph}{段}
+\providetranslation{paragraph}{段}
+\providetranslation{Parts}{部分}
+\providetranslation{parts}{部分}
+\providetranslation{Part}{部分}
+\providetranslation{part}{部分}
+\providetranslation{Preface}{前言}
+\providetranslation{Proofs}{证明}
+\providetranslation{proofs}{证明}
+\providetranslation{Proof}{证明}
+\providetranslation{proof}{证明}
+\providetranslation{References}{参考}
+\providetranslation{Related work}{相关工作}
+\providetranslation{Related Work}{相关工作}
+\providetranslation{Sections}{节}
+\providetranslation{sections}{节}
+\providetranslation{Section}{节}
+\providetranslation{section}{节}
+\providetranslation{See also}{参见}
+\providetranslation{see also}{参见}
+\providetranslation{See}{参见}
+\providetranslation{see}{参见}
+\providetranslation{Sketch of Proofs}{证明提纲}
+\providetranslation{Sketch of proofs}{证明提纲}
+\providetranslation{Sketch of Proof}{证明提纲}
+\providetranslation{Sketch of proof}{证明提纲}
+\providetranslation{Subsections}{小节}
+\providetranslation{subsections}{小节}
+\providetranslation{Subsection}{小节}
+\providetranslation{subsection}{小节}
+\providetranslation{Summary}{概要}
+\providetranslation{Tables}{表}
+\providetranslation{tables}{表}
+\providetranslation{Table}{表}
+\providetranslation{table}{表}
+\providetranslation{To}{至}
+\providetranslation{to}{至}
