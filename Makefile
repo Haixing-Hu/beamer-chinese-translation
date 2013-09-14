@@ -1,7 +1,11 @@
-# Makefile for beamer-translator-chinese
-# Copyright (C) 2013 Haixing Hu, starfish.hu (at) gmail (dot) com
+###############################################################################
 #
-TEXMF_LOCAL=/usr/local/texlive/texmf-local
+# Makefile for beamer-translator-chinese
+# Copyright (C) 2013 Haixing Hu, 
+# Department of Computer Science and Technology, Nanjing University.
+#
+###############################################################################
+TEXMF_LOCAL=$(shell get_texmf_dir.sh)
 BEAMER_TRANSLATOR_PATH=tex/latex/beamer/translator
 DEST_DIR=$(TEXMF_LOCAL)/$(BEAMER_TRANSLATOR_PATH)
 

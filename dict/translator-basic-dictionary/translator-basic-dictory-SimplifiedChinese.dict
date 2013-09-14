@@ -23,9 +23,9 @@
 \providetranslation{Continuation}{继续}
 \providetranslation{continuation}{继续}
 \providetranslation{cont}{继续}
-\providetranslation{encl (plural)}{encl}
-\providetranslation{encl (singular)}{encl}
-\providetranslation{encl}{encl}
+\providetranslation{encl (plural)}{附件}
+\providetranslation{encl (singular)}{附件}
+\providetranslation{encl}{附件}
 \providetranslation{Figures}{图}
 \providetranslation{figures}{图}
 \providetranslation{Figure}{图}
@@ -36,9 +36,9 @@
 \providetranslation{Index}{索引}
 \providetranslation{Introduction}{简介}
 \providetranslation{introduction}{简介}
-\providetranslation{List of Figures and Tables}{图表列表}
-\providetranslation{List of Figures}{插图列表}
-\providetranslation{List of Tables}{表格列表}
+\providetranslation{List of Figures and Tables}{图表目录}
+\providetranslation{List of Figures}{插图目录}
+\providetranslation{List of Tables}{表格目录}
 \providetranslation{or}{或}
 \providetranslation{Outline}{提纲}
 \providetranslation{Overview}{概要}
@@ -50,16 +50,16 @@
 \providetranslation{paragraphs}{段}
 \providetranslation{Paragraph}{段}
 \providetranslation{paragraph}{段}
-\providetranslation{Parts}{部分}
-\providetranslation{parts}{部分}
-\providetranslation{Part}{部分}
-\providetranslation{part}{部分}
+\providetranslation{Parts}{篇}
+\providetranslation{parts}{篇}
+\providetranslation{Part}{篇}
+\providetranslation{part}{篇}
 \providetranslation{Preface}{前言}
 \providetranslation{Proofs}{证明}
 \providetranslation{proofs}{证明}
-\providetranslation{Proof}{证明}
-\providetranslation{proof}{证明}
-\providetranslation{References}{参考}
+\providetranslation{Proof}{证}
+\providetranslation{proof}{证}
+\providetranslation{References}{参考文献}
 \providetranslation{Related work}{相关工作}
 \providetranslation{Related Work}{相关工作}
 \providetranslation{Sections}{节}
@@ -78,7 +78,7 @@
 \providetranslation{subsections}{小节}
 \providetranslation{Subsection}{小节}
 \providetranslation{subsection}{小节}
-\providetranslation{Summary}{概要}
+\providetranslation{Summary}{概述}
 \providetranslation{Tables}{表}
 \providetranslation{tables}{表}
 \providetranslation{Table}{表}

@@ -1,9 +1,9 @@
 \ProvidesDictionary{translator-theorem-dictionary}{SimplifiedChinese}
 
-\providetranslation{Comments}{评注}
-\providetranslation{comments}{评注}
-\providetranslation{Comment}{评注}
-\providetranslation{comment}{评注}
+\providetranslation{Comments}{注解}
+\providetranslation{comments}{注解}
+\providetranslation{Comment}{注解}
+\providetranslation{comment}{注解}
 \providetranslation{Corollaries}{推论}
 \providetranslation{corollaries}{推论}
 \providetranslation{Corollary}{推论}
@@ -58,12 +58,12 @@
 \providetranslation{Proof Sketches}{证明提纲}
 \providetranslation{Proof sketches}{证明提纲}
 \providetranslation{proof sketches}{证明提纲}
-\providetranslation{Sketch of Proof}{证明概要}
-\providetranslation{Sketch of Proofs}{证明概要}
-\providetranslation{Sketch of proof}{证明概要}
-\providetranslation{Sketch of proofs}{证明概要}
-\providetranslation{sketch of proof}{证明概要}
-\providetranslation{sketch of proofs}{证明概要}
+\providetranslation{Sketch of Proof}{证明提纲}
+\providetranslation{Sketch of Proofs}{证明提纲}
+\providetranslation{Sketch of proof}{证明提纲}
+\providetranslation{Sketch of proofs}{证明提纲}
+\providetranslation{sketch of proof}{证明提纲}
+\providetranslation{sketch of proofs}{证明提纲}
 \providetranslation{Propositions}{命题}
 \providetranslation{propositions}{命题}
 \providetranslation{Proposition}{命题}
@@ -80,3 +80,14 @@
 \providetranslation{theorems}{定理}
 \providetranslation{Theorem}{定理}
 \providetranslation{theorem}{定理}
+% We need the following to redefine some fixed names
+\renewcommand*{\proofname}{证明}
+\renewcommand*{\abstractname}{摘要}
+\renewcommand*{\appendixname}{附录}
+\renewcommand*{\refname}{参考文献}
+\renewcommand*{\contentsname}{目录}
+\renewcommand*{\indexname}{索引}
+\renewcommand*{\listfigurename}{插图目录}
+\renewcommand*{\listtablename}{表格目录}
+\renewcommand*{\tablename}{表}
+\renewcommand*{\figurename}{图}

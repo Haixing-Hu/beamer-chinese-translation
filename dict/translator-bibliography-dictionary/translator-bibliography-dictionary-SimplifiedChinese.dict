@@ -1,6 +1,6 @@
 \ProvidesDictionary{translator-bibliography-dictionary}{SimplifiedChinese}
 
-\providetranslation{ed.}{ed.}%?
+\providetranslation{ed.}{版}
 \providetranslation{Editions}{版}
 \providetranslation{editions}{版}
 \providetranslation{Edition}{版}
@@ -9,11 +9,11 @@
 \providetranslation{editors}{编辑}
 \providetranslation{Editor}{编辑}
 \providetranslation{editor}{编辑}
-\providetranslation{eds.}{eds.}%?
-\providetranslation{Extended edition}{扩充版}%?
-\providetranslation{extended edition}{扩充版}%?
-\providetranslation{in (bibliography)}{in (bibliography)}
-\providetranslation{In (bibliography)}{In (bibliography)}
+\providetranslation{eds.}{编辑}
+\providetranslation{Extended edition}{扩充版}
+\providetranslation{extended edition}{扩充版}
+\providetranslation{in (bibliography)}{位于（参考文献）}
+\providetranslation{In (bibliography)}{位于（参考文献）}
 \providetranslation{Tech. Rep.}{技术报告}
 \providetranslation{Technical Reports}{技术报告}
 \providetranslation{technical reports}{技术报告}
