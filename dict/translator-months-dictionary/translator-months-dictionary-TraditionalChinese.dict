@@ -1,0 +1,14 @@
+\ProvidesDictionary{translator-month-dictionary}{TraditionalChinese}
+
+\providetranslation{January}{一月}
+\providetranslation{February}{二月}
+\providetranslation{March}{三月}
+\providetranslation{April}{四月}
+\providetranslation{May}{五月}
+\providetranslation{June}{六月}
+\providetranslation{July}{七月}
+\providetranslation{August}{八月}
+\providetranslation{September}{九月}
+\providetranslation{October}{十月}
+\providetranslation{November}{十一月}
+\providetranslation{December}{十二月}

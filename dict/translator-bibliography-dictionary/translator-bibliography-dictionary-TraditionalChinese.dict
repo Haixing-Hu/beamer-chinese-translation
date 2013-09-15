@@ -1,0 +1,21 @@
+\ProvidesDictionary{translator-bibliography-dictionary}{TraditionalChinese}
+
+\providetranslation{ed.}{版}
+\providetranslation{Editions}{版}
+\providetranslation{editions}{版}
+\providetranslation{Edition}{版}
+\providetranslation{edition}{版}
+\providetranslation{Editors}{編輯}
+\providetranslation{editors}{編輯}
+\providetranslation{Editor}{編輯}
+\providetranslation{editor}{編輯}
+\providetranslation{eds.}{編輯}
+\providetranslation{Extended edition}{擴充版}
+\providetranslation{extended edition}{擴充版}
+\providetranslation{in (bibliography)}{出現在}
+\providetranslation{In (bibliography)}{出現在}
+\providetranslation{Tech. Rep.}{技術報告}
+\providetranslation{Technical Reports}{技術報告}
+\providetranslation{technical reports}{技術報告}
+\providetranslation{Technical Report}{技術報告}
+\providetranslation{technical report}{技術報告}

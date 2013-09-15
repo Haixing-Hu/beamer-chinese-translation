@@ -1,0 +1,93 @@
+\ProvidesDictionary{translator-theorem-dictionary}{TraditionalChinese}
+
+\providetranslation{Comments}{注解}
+\providetranslation{comments}{注解}
+\providetranslation{Comment}{注解}
+\providetranslation{comment}{注解}
+\providetranslation{Corollaries}{推論}
+\providetranslation{corollaries}{推論}
+\providetranslation{Corollary}{推論}
+\providetranslation{corollary}{推論}
+\providetranslation{Definitions}{定義}
+\providetranslation{definitions}{定義}
+\providetranslation{Definition}{定義}
+\providetranslation{definition}{定義}
+\providetranslation{Examples}{例子}
+\providetranslation{examples}{例子}
+\providetranslation{Example}{例}
+\providetranslation{example}{例}
+\providetranslation{Exercises}{習題}
+\providetranslation{exercises}{習題}
+\providetranslation{Exercise}{習題}
+\providetranslation{exercise}{習題}
+\providetranslation{Facts}{事實}
+\providetranslation{facts}{事實}
+\providetranslation{Fact}{事實}
+\providetranslation{fact}{事實}
+\providetranslation{Key Lemmas}{關鍵引理}
+\providetranslation{key lemmas}{關鍵引理}
+\providetranslation{Key Lemma}{關鍵引理}
+\providetranslation{key lemma}{關鍵引理}
+\providetranslation{Key Observations}{關鍵觀察結果}
+\providetranslation{key observations}{關鍵觀察結果}
+\providetranslation{Key Observation}{關鍵觀察結果}
+\providetranslation{key observation}{關鍵觀察結果}
+\providetranslation{Lemmas}{引理}
+\providetranslation{lemmas}{引理}
+\providetranslation{Lemma}{引理}
+\providetranslation{lemma}{引理}
+\providetranslation{Main Theorems}{主定理}
+\providetranslation{main theorems}{主定理}
+\providetranslation{Main Theorem}{主定理}
+\providetranslation{main theorem}{主定理}
+\providetranslation{Observations}{觀察結果}
+\providetranslation{observations}{觀察結果}
+\providetranslation{Observation}{觀察結果}
+\providetranslation{observation}{觀察結果}
+\providetranslation{Problems}{問題}
+\providetranslation{problems}{問題}
+\providetranslation{Problem}{問題}
+\providetranslation{problem}{問題}
+\providetranslation{Proofs}{證明}
+\providetranslation{proofs}{證明}
+\providetranslation{Proof}{證明}
+\providetranslation{proof}{證明}
+\providetranslation{Proof Sketch}{證明提綱}
+\providetranslation{Proof sketch}{證明提綱}
+\providetranslation{proof sketch}{證明提綱}
+\providetranslation{Proof Sketches}{證明提綱}
+\providetranslation{Proof sketches}{證明提綱}
+\providetranslation{proof sketches}{證明提綱}
+\providetranslation{Sketch of Proof}{證明提綱}
+\providetranslation{Sketch of Proofs}{證明提綱}
+\providetranslation{Sketch of proof}{證明提綱}
+\providetranslation{Sketch of proofs}{證明提綱}
+\providetranslation{sketch of proof}{證明提綱}
+\providetranslation{sketch of proofs}{證明提綱}
+\providetranslation{Propositions}{命題}
+\providetranslation{propositions}{命題}
+\providetranslation{Proposition}{命題}
+\providetranslation{proposition}{命題}
+\providetranslation{Remarks}{注解}
+\providetranslation{remarks}{注解}
+\providetranslation{Remark}{注}
+\providetranslation{remark}{注}
+\providetranslation{Solutions}{解答}
+\providetranslation{solutions}{解答}
+\providetranslation{Solution}{解}
+\providetranslation{solution}{解}
+\providetranslation{Theorems}{定理}
+\providetranslation{theorems}{定理}
+\providetranslation{Theorem}{定理}
+\providetranslation{theorem}{定理}
+% We need the following to redefine some fixed names
+\renewcommand*{\proofname}{證明}
+\renewcommand*{\abstractname}{摘要}
+\renewcommand*{\appendixname}{附錄}
+\renewcommand*{\refname}{參考文獻}
+\renewcommand*{\contentsname}{目錄}
+\renewcommand*{\indexname}{索引}
+\renewcommand*{\listfigurename}{插圖目錄}
+\renewcommand*{\listtablename}{表格目錄}
+\renewcommand*{\tablename}{表}
+\renewcommand*{\figurename}{圖}
